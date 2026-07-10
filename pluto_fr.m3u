@@ -129,6 +129,8 @@ https://jmp2.uk/plu-68b16d2282862c1f067dc763.m3u8
 https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8
 #EXTINF:-1 channel-id="60549d97cd7b090007c73314" tvg-id="60549d97cd7b090007c73314" tvg-chno="235" tvg-name="Les filles d'à côté" tvg-logo="https://images.pluto.tv/channels/60549d97cd7b090007c73314/colorLogoPNG.png" group-title="100% Français",Les filles d'à côté
 https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
+#EXTINF:-1 channel-id="691b33ae8a64bd1811e923f2" tvg-id="691b33ae8a64bd1811e923f2" tvg-chno="11" tvg-name="Les vacances de l'amour" tvg-logo="https://images.pluto.tv/channels/691b33ae8a64bd1811e923f2/colorLogoPNG_1771923699657.png" group-title="Nouveau sur Pluto TV",Les vacances de l'amour
+https://jmp2.uk/plu-691b33ae8a64bd1811e923f2.m3u8
 #EXTINF:-1 channel-id="5f8ed6d569d2d4000864a976" tvg-id="5f8ed6d569d2d4000864a976" tvg-chno="220" tvg-name="Louis La Brocante" tvg-logo="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png" group-title="100% Français",Louis La Brocante
 https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
 #EXTINF:-1 channel-id="671643fc5534bb00089187ad" tvg-id="671643fc5534bb00089187ad" tvg-chno="1220" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/671643fc5534bb00089187ad/colorLogoPNG_1732094996069.png" group-title="Sports & Auto",MODUS Super Series Darts
@@ -199,7 +201,7 @@ https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
 https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
 #EXTINF:-1 channel-id="5f8ed4dbf6bb0800071ffbcb" tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-chno="20" tvg-name="Pluto TV Polar" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-title="Séries Policières",Pluto TV Polar
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
-#EXTINF:-1 channel-id="6092544e7639460007d4835e" tvg-id="6092544e7639460007d4835e" tvg-chno="710" tvg-name="Pluto TV Pride" tvg-logo="https://images.pluto.tv/channels/6092544e7639460007d4835e/colorLogoPNG_1780300821162.png" group-title="TV Réalité",Pluto TV Pride
+#EXTINF:-1 channel-id="6092544e7639460007d4835e" tvg-id="6092544e7639460007d4835e" tvg-chno="710" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/6092544e7639460007d4835e/colorLogoPNG_1783323667324.png" group-title="TV Réalité",Pluto TV Reality
 https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
 #EXTINF:-1 channel-id="611e6a9b4bb5790007a6f0f8" tvg-id="611e6a9b4bb5790007a6f0f8" tvg-chno="540" tvg-name="Pluto TV Retro Toons" tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" group-title="Animation",Pluto TV Retro Toons
 https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
@@ -217,12 +219,10 @@ https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
 https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8
 #EXTINF:-1 channel-id="652d0b9ceb72580008a4ea5b" tvg-id="652d0b9ceb72580008a4ea5b" tvg-chno="625" tvg-name="Qui veut gagner des millions?" tvg-logo="https://images.pluto.tv/channels/652d0b9ceb72580008a4ea5b/colorLogoPNG.png" group-title="Emissions cultes",Qui veut gagner des millions?
 https://jmp2.uk/plu-652d0b9ceb72580008a4ea5b.m3u8
-#EXTINF:-1 channel-id="691b332aa4385c191ee44b57" tvg-id="691b332aa4385c191ee44b57" tvg-chno="11" tvg-name="Rex, chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png" group-title="Nouveau sur Pluto TV",Rex chien flic
+#EXTINF:-1 channel-id="691b332aa4385c191ee44b57" tvg-id="691b332aa4385c191ee44b57" tvg-chno="36" tvg-name="Rex, chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png" group-title="Séries Policières",Rex chien flic
 https://jmp2.uk/plu-691b332aa4385c191ee44b57.m3u8
 #EXTINF:-1 channel-id="5f8eb8a8b2619a000710605c" tvg-id="5f8eb8a8b2619a000710605c" tvg-chno="1110" tvg-name="Ridiculousness" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" group-title="Comédie",Ridiculousness
 https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
-#EXTINF:-1 channel-id="6a1ecc3d7120a26f0dcf89e7" tvg-id="6a1ecc3d7120a26f0dcf89e7" tvg-chno="1206" tvg-name="SUMO Paris 2026" tvg-logo="https://images.pluto.tv/channels/6a1ecc3d7120a26f0dcf89e7/colorLogoPNG_1780993168334.png" group-title="Sports & Auto",SUMO Paris 2026
-https://jmp2.uk/plu-6a1ecc3d7120a26f0dcf89e7.m3u8
 #EXTINF:-1 channel-id="5f8ed2d1c34c2300073bf02c" tvg-id="5f8ed2d1c34c2300073bf02c" tvg-chno="165" tvg-name="Series by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1775048963457.png" group-title="À Binge-Watch",Series by Pluto TV
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
 #EXTINF:-1 channel-id="697a34496f47f39d31ff8bde" tvg-id="697a34496f47f39d31ff8bde" tvg-chno="426" tvg-name="Si près de chez vous" tvg-logo="https://images.pluto.tv/channels/697a34496f47f39d31ff8bde/colorLogoPNG_1771923879114.png" group-title="Crime & Mystère",Si près de chez vous
@@ -257,8 +257,6 @@ https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8
 #EXTINF:-1 channel-id="60afa749ac7f3200078adb40" tvg-id="60afa749ac7f3200078adb40" tvg-chno="35" tvg-name="Walker Texas Ranger" tvg-logo="https://images.pluto.tv/channels/60afa749ac7f3200078adb40/colorLogoPNG.png" group-title="Séries Policières",Walker Texas Ranger
 https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8
-#EXTINF:-1 channel-id="60b4d6c806ad2a00073b3108" tvg-id="60b4d6c806ad2a00073b3108" tvg-chno="380" tvg-name="Wild Side TV" tvg-logo="https://images.pluto.tv/channels/60b4d6c806ad2a00073b3108/colorLogoPNG.png" group-title="Cinéma",Wild Side TV
-https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
 #EXTINF:-1 channel-id="612e044c970e6f00083bcf3b" tvg-id="612e044c970e6f00083bcf3b" tvg-chno="630" tvg-name="Y'a que la vérité qui compte" tvg-logo="https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/colorLogoPNG.png" group-title="Emissions cultes",Y'a que la vérité qui compte
 https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
 #EXTINF:-1 channel-id="6130d9c712c2b000070abb50" tvg-id="6130d9c712c2b000070abb50" tvg-chno="515" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/6130d9c712c2b000070abb50/colorLogoPNG.png" group-title="Animation",Yu-Gi-Oh!
